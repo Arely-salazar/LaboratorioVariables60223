@@ -71,6 +71,8 @@ public class LaboratorioVariables60223 {
         System.out.println("¿Cuántos años tienes?: ");
         int edad = lector.nextInt();
         System.out.println(" ¡Te llamas " + nombre + " y tienes "+ edad + "años");
+        
+        
                
                 
   
